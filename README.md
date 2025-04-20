@@ -17,99 +17,81 @@ This project demonstrates foundational and advanced principles of Windows Server
 
 <h2>Project walk-through:</h2>
 <p align="left">
-TEXT <br/><br/>
-  <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Initiation of the Windows Update process to ensure the operating system is current with the latest security patches and improvements. <br/><br/>
+  <img src="Screenshot 2025-04-19 204016.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+Confirmation of the successful completion of the Windows Update process, indicating that the system has been updated with the latest patches and enhancements. <br/><br/>
+  <img src="Screenshot 2025-04-19 204025.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+Verification that the system is fully updated and running the latest available updates. <br/><br/>
+  <img src="Screenshot 2025-04-19 204032.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+Confirmation of a user successfully added to the appropriate Active Directory group for role-based access control. <br/><br/>
+  <img src="Screenshot 2025-04-19 204039.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+Three users were successfully added to the Research and Development Department's Active Directory group to align with organizational role assignments. <br/><br/>
+  <img src="Screenshot 2025-04-19 204048.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+Three users were added to the Human Resources Department group in Active Directory to reflect departmental user organization and access control. <br/><br/>
+  <img src="Screenshot 2025-04-19 204055.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+Four users were successfully added to the IT Department group within Active Directory to establish appropriate access permissions and departmental alignment. <br/><br/>
+  <img src="Screenshot 2025-04-19 204103.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+The Research and Development Department group was configured with logon hours restricted to 9:00 AM through 8:00 PM, Monday through Friday, to enforce secure access during standard business hours. <br/><br/>
+  <img src="Screenshot 2025-04-19 204109.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+The "Disconnect clients when logon hours expire" option was enabled to ensure that user sessions are automatically terminated outside of designated access times, enhancing system security and compliance. <br/><br/>
+  <img src="Screenshot 2025-04-19 204115.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+The policy update was forcibly applied to ensure that all system configurations, including group policies and user access controls, are synchronized and implemented across the network. <br/><br/>
+  <img src="Screenshot 2025-04-19 204121.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+The configuration process for delegation controls within the HR Department was initiated, allowing for the assignment of specific administrative permissions to designated users within the department. <br/><br/>
+  <img src="Screenshot 2025-04-19 204128.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+The "User Objects" option was selected, with permissions configured to allow only "Read and Write" access, ensuring controlled access to sensitive user data within the HR Department. <br/><br/>
+  <img src="Screenshot 2025-04-19 204135.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+The policy update was successfully forced, ensuring that the latest changes were applied across the system, reflecting the new security configurations and user access permissions. <br/><br/>
+  <img src="Screenshot 2025-04-19 204149.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+The delegation controls for the IT Department were initiated, allowing for the configuration of specific permissions and roles tailored to the department's requirements.The delegation controls for the IT Department were initiated, allowing for the configuration of specific permissions and roles tailored to the department's requirements. <br/><br/>
+  <img src="Screenshot 2025-04-19 204155.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+The configuration illustrates the selection of the "Reset user passwords and force password change at next logon" option, which is set to enforce a mandatory password reset for users upon their next login. <br/><br/>
+  <img src="Screenshot 2025-04-19 204201.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+The configuration demonstrates the forced update of the policy, ensuring that all changes to the system settings are applied immediately across the relevant user accounts and groups. <br/><br/>
+  <img src="Screenshot 2025-04-19 204210.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
 TEXT <br/><br/>
-  <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="Screenshot 2025-04-19 204220.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
 TEXT <br/><br/>
-  <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="Screenshot 2025-04-19 204227.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
 TEXT <br/><br/>
-  <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="Screenshot 2025-04-19 204233.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
-<p align="left">
-TEXT <br/><br/>
-  <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <br/>
-<p align="left">
-TEXT <br/><br/>
-  <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <br/>
-<p align="left">
-TEXT <br/><br/>
-  <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <br/>
-<p align="left">
-TEXT <br/><br/>
-  <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <br/>
-<p align="left">
-TEXT <br/><br/>
-  <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <br/>
-<p align="left">
-TEXT <br/><br/>
-  <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <br/>
-<p align="left">
-TEXT <br/><br/>
-  <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <br/>
-<p align="left">
-TEXT <br/><br/>
-  <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <br/>
-<p align="left">
-TEXT <br/><br/>
-  <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <br/>
-<p align="left">
-TEXT <br/><br/>
-  <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <br/>
-<p align="left">
-TEXT <br/><br/>
-  <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <br/>
-<p align="left">
-TEXT <br/><br/>
-  <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <br/>
-<p align="left">
-TEXT <br/><br/>
-  <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <br/>
-<p align="left">
-TEXT <br/><br/>
-  <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <br/>
-<p align="left">
-TEXT <br/><br/>
-  <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <br/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
             
 <h2>Write Up</h2>
