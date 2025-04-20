@@ -65,31 +65,34 @@ The "User Objects" option was selected, with permissions configured to allow onl
   <img src="Screenshot 2025-04-19 204135.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
-The policy update was successfully forced, ensuring that the latest changes were applied across the system, reflecting the new security configurations and user access permissions. <br/><br/>
+The delegation controls for the IT Department were initiated, allowing for the configuration of specific permissions and roles tailored to the department's requirements.The delegation controls for the IT Department were initiated, allowing for the configuration of specific permissions and roles tailored to the department's requirements.
+ <br/><br/>
   <img src="Screenshot 2025-04-19 204149.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
-The delegation controls for the IT Department were initiated, allowing for the configuration of specific permissions and roles tailored to the department's requirements.The delegation controls for the IT Department were initiated, allowing for the configuration of specific permissions and roles tailored to the department's requirements. <br/><br/>
+The configuration illustrates the selection of the "Reset user passwords and force password change at next logon" option, which is set to enforce a mandatory password reset for users upon their next login. <br/><br/>
   <img src="Screenshot 2025-04-19 204155.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
-The configuration illustrates the selection of the "Reset user passwords and force password change at next logon" option, which is set to enforce a mandatory password reset for users upon their next login. <br/><br/>
+The configuration demonstrates the forced update of the policy, ensuring that all changes to the system settings are applied immediately across the relevant user accounts and groups. <br/><br/>
   <img src="Screenshot 2025-04-19 204201.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
-The configuration demonstrates the forced update of the policy, ensuring that all changes to the system settings are applied immediately across the relevant user accounts and groups. <br/><br/>
+The HR and IT departments were successfully added to the local login page, enabling authorized users from these departments to access the system directly.
+ <br/><br/>
   <img src="Screenshot 2025-04-19 204210.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
-TEXT <br/><br/>
+The user ‘Tyler Childers’ from the HR department successfully logged into the system, confirming proper account creation and authentication configuration. <br/><br/>
   <img src="Screenshot 2025-04-19 204220.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
-TEXT <br/><br/>
+The HR Department was granted the necessary permissions to modify user name attributes, confirming appropriate delegation of authority. <br/><br/>
   <img src="Screenshot 2025-04-19 204227.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
-TEXT <br/><br/>
+Bob Smith from the IT Department successfully executed a password reset for a user in the Research and Development Department, demonstrating proper delegation of user account management privileges.
+<br/><br/>
   <img src="Screenshot 2025-04-19 204233.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 
