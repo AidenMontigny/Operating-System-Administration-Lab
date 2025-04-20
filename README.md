@@ -20,8 +20,98 @@ This project demonstrates foundational and advanced principles of Windows Server
 TEXT <br/><br/>
   <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
+<p align="left">
+TEXT <br/><br/>
+  <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/><br/>
+  <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/><br/>
+  <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/><br/>
+  <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/><br/>
+  <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/><br/>
+  <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/><br/>
+  <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/><br/>
+  <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/><br/>
+  <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/><br/>
+  <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/><br/>
+  <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/><br/>
+  <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/><br/>
+  <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/><br/>
+  <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/><br/>
+  <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/><br/>
+  <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/><br/>
+  <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<p align="left">
+TEXT <br/><br/>
+  <img src="Screenshot 2025-04-19 144313.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
 
-                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
 <h2>Write Up</h2>
 
 <p><u> The Importance of Patches and Updates </u></p>
