@@ -1,4 +1,4 @@
-<h1> Operating System Administration Lab </h1>
+f<h1> Operating System Administration Lab </h1>
 
 <h2>Description</h2>
 This project demonstrates foundational and advanced principles of Windows Server administration, focusing on user account management, security groups, authentication policies, and system updates in a Windows domain environment. It begins with ensuring the system is up to date through the installation and verification of Windows Updates. Users were then added to different departments such as Research and Development, Human Resources, and IT, with group policies implemented to define logon hours, enforce disconnection after hours, and update policies across the network. Role-based access control (RBAC) was also configured, allowing HR to read and write user object attributes and IT to reset passwords and enforce password changes. Departmental access was tested, and role-specific permissions were validated. Additionally, the project explored the critical importance of operating system updates, authentication group policies, and the balance between security and usability in enterprise environments, reinforcing key concepts in system security, patch management, and user access control.
@@ -49,49 +49,49 @@ The Research and Development Department group was configured with logon hours re
   <img src="Screenshot 2025-04-19 204109.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
-The "Disconnect clients when logon hours expire" option was enabled to ensure that user sessions <br/> are automatically terminated outside of designated access times, enhancing system security and compliance. <br/><br/>
+The "Disconnect clients when logon hours expire" option was enabled to ensure that user <br/> sessions are automatically terminated outside of designated access times, enhancing system security and compliance. <br/><br/>
   <img src="Screenshot 2025-04-19 204115.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
-The policy update was forcibly applied to ensure that all system configurations, including group <br/> policies and user access controls, are synchronized and implemented across the network. <br/><br/>
+The policy update was forcibly applied to ensure that all system configurations, including <br/> group policies and user access controls, are synchronized and implemented across the network. <br/><br/>
   <img src="Screenshot 2025-04-19 204121.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
-The configuration process for delegation controls within the HR Department was initiated, allowing <br/> for the assignment of specific administrative permissions to designated users within the department. <br/><br/>
+The configuration process for delegation controls within the HR Department was initiated, <br/> allowing <br/> for the assignment of specific administrative permissions to designated users within the department. <br/><br/>
   <img src="Screenshot 2025-04-19 204128.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
-The "User Objects" option was selected, with permissions configured to allow only "Read and Write" <br/> access, ensuring controlled access to sensitive user data within the HR Department. <br/><br/>
+The "User Objects" option was selected, with permissions configured to allow only <br/> "Read and Write" access, ensuring controlled access to sensitive user data within the HR Department. <br/><br/>
   <img src="Screenshot 2025-04-19 204135.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
-The delegation controls for the IT Department were initiated, allowing for the configuration of <br/> specific permissions and roles tailored to the department's requirements.The delegation controls for the IT Department were initiated, allowing for the configuration of specific permissions and roles tailored to the department's requirements.
+The delegation controls for the IT Department were initiated, allowing for the configuration <br/> of specific permissions and roles tailored to the department's requirements.The delegation controls for the IT Department were initiated, allowing for the configuration of specific permissions and roles tailored to the department's requirements.
  <br/><br/>
   <img src="Screenshot 2025-04-19 204149.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
-The configuration illustrates the selection of the "Reset user passwords and force password change <br/> at next logon" option, which is set to enforce a mandatory password reset for users upon their next login. <br/><br/>
+The configuration illustrates the selection of the "Reset user passwords and force password <br/> change at next logon" option, which is set to enforce a mandatory password reset for users upon their next login. <br/><br/>
   <img src="Screenshot 2025-04-19 204155.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
-The configuration demonstrates the forced update of the policy, ensuring that all changes to the <br/> system settings are applied immediately across the relevant user accounts and groups. <br/><br/>
+The configuration demonstrates the forced update of the policy, ensuring that all changes <br/> to the system settings are applied immediately across the relevant user accounts and groups. <br/><br/>
   <img src="Screenshot 2025-04-19 204201.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
-The HR and IT departments were successfully added to the local login page, enabling authorized <br/> users from these departments to access the system directly.
+The HR and IT departments were successfully added to the local login page, enabling <br/> authorized users from these departments to access the system directly.
  <br/><br/>
   <img src="Screenshot 2025-04-19 204210.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
-The user ‘Tyler Childers’ from the HR department successfully logged into the system, confirming <br/> proper account creation and authentication configuration. <br/><br/>
+The user ‘Tyler Childers’ from the HR department successfully logged into the system, <br/> confirming proper account creation and authentication configuration. <br/><br/>
   <img src="Screenshot 2025-04-19 204220.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
-The HR Department was granted the necessary permissions to modify user name attributes, confirming<br/>  appropriate delegation of authority. <br/><br/>
+The HR Department was granted the necessary permissions to modify user name attributes, <br/> confirming  appropriate delegation of authority. <br/><br/>
   <img src="Screenshot 2025-04-19 204227.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
-Bob Smith from the IT Department successfully executed a password reset for a user in the Research <br/> and Development Department, demonstrating proper delegation of user account management privileges.
+Bob Smith from the IT Department successfully executed a password reset for a user in the <br/> Research and Development Department, demonstrating proper delegation of user account management privileges.
 <br/><br/>
   <img src="Screenshot 2025-04-19 204233.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
